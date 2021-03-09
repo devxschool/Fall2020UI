@@ -40,7 +40,7 @@ public class PracticeBasicLocators {
         gmailLink.click();
 
         Thread.sleep(3000);
-        Assert.assertTrue(driver.getCurrentUrl().contains("maily"));
+        Assert.assertTrue(driver.getCurrentUrl().contains("mail"));
 
 
 
