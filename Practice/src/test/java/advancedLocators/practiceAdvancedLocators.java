@@ -110,4 +110,17 @@ public class practiceAdvancedLocators {
 
     }
 
+    @Test
+    public void test4() throws InterruptedException{
+        driver.get("https://demoqa.com/checkbox");
+        driver.findElement(By.xpath("//button[@aria-label='Toggle']")).click();
+        driver.findElement(By.xpath("//label[@for='tree-node-desktop']")).click();
+        Thread.sleep(3000);
+        String resultText = driver.findElement(By.xpath("//div[@id='result']")).getText();
+        Assert.assertTrue(resultText.contains("desktop"));
+
+
+    }
+
+
 }
