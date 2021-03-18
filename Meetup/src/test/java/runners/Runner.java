@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         },
         features = {"classpath:features"},
         glue = {"step_defs"},
-        //tags = {"@signup"},
+        //tags = {"@googleTest"},
         dryRun = false
 )
 public class Runner {

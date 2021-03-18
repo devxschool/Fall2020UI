@@ -5,8 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.devxschool</groupId>
-    <artifactId>fall2020UI</artifactId>
+    <artifactId>Fall2020UI</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
         <module>meetup</module>
