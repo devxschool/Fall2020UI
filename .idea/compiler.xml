@@ -7,7 +7,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Fall2020UI" />
-        <module name="fall2020UI" />
         <module name="meetup" />
         <module name="practice" />
       </profile>

@@ -1,5 +1,7 @@
 Feature: Basic Validation
 
-  Scenario: Title verification
-    Given the user is on the meetup homepage
-    Then verify the title contains "Meetup"
+  @googleTest
+  Scenario: Google Title verification
+    When the user navigates to google
+    And the user searches for "apple"
+    Then verify "flower" is in the title of the page
