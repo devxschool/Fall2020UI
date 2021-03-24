@@ -5,10 +5,7 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.ElementClickInterceptedException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -148,7 +145,7 @@ public class PracticeSelectClass {
 
         driver.get("https://www.expedia.com/");
 
-        try{
+        /*try{
             driver.findElement(By.xpath("//a[@aria-controls='wizard-cruise-pwa']")).click();
         }catch(ElementClickInterceptedException e){
             //we will wait for that little modal to show up--> then we will close it
@@ -158,9 +155,16 @@ public class PracticeSelectClass {
             driver.findElement(By.xpath("//div[contains(text(),'Sign in')]/..")).click();
 
             driver.findElement(By.xpath("//a[@aria-controls='wizard-cruise-pwa']")).click();
-        }
+        }*/
 
-        driver.findElement(By.xpath("//a[@aria-controls='wizard-cruise-pwa']")).click();
+
+
+
+        WebElement cruisesTab = driver.findElement(By.xpath("//a[@aria-controls='wizard-cruise-pwa']"));
+
+        JavascriptExecutor js = (JavascriptExecutor)driver;
+        js.executeScript("arguments[0].click();", cruisesTab);
+
         //exception happen
 
         WebElement selectElemnt = driver.findElement(By.id("cruise-destination"));

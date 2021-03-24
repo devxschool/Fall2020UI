@@ -1,16 +1,20 @@
 package advancedMouseInteractions;
 
+import com.github.javafaker.Faker;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import utilities.Driver;
+
+import static utilities.HelperMethods.highlightElement;
 
 public class PracticeActionsClass {
 
@@ -162,6 +166,35 @@ public class PracticeActionsClass {
         WebElement subSubItem1 = driver.findElement(By.xpath("//a[text()='Sub Sub Item 1']"));
 
         subSubItem1.click();
+
+    }
+
+
+    //key press events
+
+    @Test
+    public void test8() throws InterruptedException{
+        driver.navigate().to("https://demoqa.com/automation-practice-form");
+        WebElement firstNameInput = driver.findElement(By.id("firstName"));
+        WebElement lastNameInput = driver.findElement(By.id("lastName"));
+
+        highlightElement(firstNameInput);
+        Faker faker = new Faker();
+        firstNameInput.sendKeys(faker.funnyName().name());
+
+        Actions actions = new Actions(driver);
+        actions.keyDown(Keys.COMMAND).sendKeys("a").keyUp(Keys.COMMAND).perform();
+        actions.keyDown(Keys.COMMAND).sendKeys("c").keyUp(Keys.COMMAND).perform();
+
+
+        highlightElement(lastNameInput);
+
+        actions.sendKeys(Keys.TAB).perform();
+
+        actions.keyDown(Keys.COMMAND).sendKeys("v").keyUp(Keys.COMMAND).perform();
+
+
+        Assert.assertTrue(lastNameInput.getAttribute("value").equals(firstNameInput.getAttribute("value")));
 
     }
 }
