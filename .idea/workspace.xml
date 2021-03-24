@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d7abe127-7f60-483b-989b-c6ac9a3df0a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/test/resources/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/resources/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/target/test-classes/dropdowns/PracticeSelectClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/test-classes/dropdowns/PracticeSelectClass.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,24 +53,25 @@
     <session id="-223267489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="feature" value="476" />
-          <entry key="java" value="17362" />
+          <entry key="java" value="19633" />
           <entry key="properties" value="202" />
           <entry key="xml" value="37" />
         </counts>
@@ -76,7 +79,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Cucumber" value="476" />
-          <entry key="JAVA" value="17362" />
+          <entry key="JAVA" value="19633" />
           <entry key="Properties" value="202" />
           <entry key="XML" value="37" />
         </counts>
@@ -84,7 +87,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="feature" value="4" />
-          <entry key="java" value="27" />
+          <entry key="java" value="31" />
           <entry key="png" value="2" />
           <entry key="properties" value="4" />
           <entry key="xml" value="5" />
@@ -94,7 +97,7 @@
         <counts>
           <entry key="Cucumber" value="4" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="31" />
           <entry key="Properties" value="4" />
           <entry key="XML" value="5" />
         </counts>
@@ -108,48 +111,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Meetup/src/test/java/runners/Runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="166" column="1" lean-forward="true" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/src/test/resources/configuration.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Meetup/src/test/java/utilities/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="466">
+              <caret line="196" column="103" selection-start-line="196" selection-start-column="103" selection-end-line="196" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,31 +124,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Meetup/src/test/java/step_defs/BasicValidationSteps.java">
+        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/utilities/HelperMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" column="45" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Meetup/src/test/resources/features/BasicValidation.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Meetup/src/test/java/utilities/ConfigReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -211,8 +156,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="191">
+              <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -247,7 +192,6 @@
         <option value="$PROJECT_DIR$/Practice/src/test/java/browserSynchronization/PracticeWaits.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/windowsIframes/MultipleWindows.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/utilities/ConfigReader.java" />
-        <option value="$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/pageNavigation/PracticeNavigation.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/utilities/ChromeWebDriver.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/utilities/FirefoxWebDriver.java" />
@@ -269,6 +213,10 @@
         <option value="$PROJECT_DIR$/Meetup/pom.xml" />
         <option value="$PROJECT_DIR$/Practice/pom.xml" />
         <option value="$PROJECT_DIR$/Practice/src/test/resources/configuration.properties" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/utilities/HelperMethods.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/javascript/PracticeJavascript.java" />
+        <option value="$PROJECT_DIR$/Meetup/src/test/java/utilities/Helper.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java" />
       </list>
     </option>
@@ -296,7 +244,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="716" />
@@ -307,47 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="fall2020UI" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="meetup" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="meetup" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="meetup" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="practice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="practice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="practice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -393,10 +300,54 @@
             <path>
               <item name="Fall2020UI" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fall2020UI" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fall2020UI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fall2020UI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="fall2020UI" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="meetup" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="meetup" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="meetup" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="practice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="practice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Fall2020UI" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="practice" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -406,7 +357,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616465031468" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616550599163" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -424,55 +375,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PracticeActionsClass.test7">
-    <configuration name="PracticeActionsClass.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advancedMouseInteractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="advancedMouseInteractions" />
-      <option name="MAIN_CLASS_NAME" value="advancedMouseInteractions.PracticeActionsClass" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeActionsClass.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advancedMouseInteractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="advancedMouseInteractions" />
-      <option name="MAIN_CLASS_NAME" value="advancedMouseInteractions.PracticeActionsClass" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeActionsClass.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advancedMouseInteractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="advancedMouseInteractions" />
-      <option name="MAIN_CLASS_NAME" value="advancedMouseInteractions.PracticeActionsClass" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.PracticeActionsClass.test8">
     <configuration name="PracticeActionsClass.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
@@ -505,20 +408,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PracticeActionsClass.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedMouseInteractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="advancedMouseInteractions" />
+      <option name="MAIN_CLASS_NAME" value="advancedMouseInteractions.PracticeActionsClass" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeJavascript.etsyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javascript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javascript" />
+      <option name="MAIN_CLASS_NAME" value="javascript.PracticeJavascript" />
+      <option name="METHOD_NAME" value="etsyTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeSelectClass.expediaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dropdowns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dropdowns" />
+      <option name="MAIN_CLASS_NAME" value="dropdowns.PracticeSelectClass" />
+      <option name="METHOD_NAME" value="expediaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.PracticeActionsClass.test3" />
-      <item itemvalue="JUnit.PracticeActionsClass.test4" />
-      <item itemvalue="JUnit.PracticeActionsClass.test5" />
       <item itemvalue="JUnit.PracticeActionsClass.test6" />
       <item itemvalue="JUnit.PracticeActionsClass.test7" />
+      <item itemvalue="JUnit.PracticeSelectClass.expediaTest" />
+      <item itemvalue="JUnit.PracticeJavascript.etsyTest" />
+      <item itemvalue="JUnit.PracticeActionsClass.test8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PracticeActionsClass.test8" />
+        <item itemvalue="JUnit.PracticeJavascript.etsyTest" />
+        <item itemvalue="JUnit.PracticeSelectClass.expediaTest" />
         <item itemvalue="JUnit.PracticeActionsClass.test7" />
         <item itemvalue="JUnit.PracticeActionsClass.test6" />
-        <item itemvalue="JUnit.PracticeActionsClass.test5" />
-        <item itemvalue="JUnit.PracticeActionsClass.test4" />
-        <item itemvalue="JUnit.PracticeActionsClass.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -536,41 +487,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PracticeActionsClass_test5 - 2021.03.22 at 20h 25m 40s.xml">
-      <configuration name="PracticeActionsClass.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test5 - 2021.03.22 at 20h 26m 18s.xml">
-      <configuration name="PracticeActionsClass.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test5 - 2021.03.22 at 20h 26m 48s.xml">
-      <configuration name="PracticeActionsClass.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test5 - 2021.03.22 at 20h 27m 11s.xml">
-      <configuration name="PracticeActionsClass.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test5 - 2021.03.22 at 20h 27m 36s.xml">
-      <configuration name="PracticeActionsClass.test5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test6 - 2021.03.22 at 20h 50m 06s.xml">
-      <configuration name="PracticeActionsClass.test6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test6 - 2021.03.22 at 20h 51m 31s.xml">
-      <configuration name="PracticeActionsClass.test6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test6 - 2021.03.22 at 20h 53m 12s.xml">
-      <configuration name="PracticeActionsClass.test6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeActionsClass_test6 - 2021.03.22 at 20h 54m 02s.xml">
-      <configuration name="PracticeActionsClass.test6" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PracticeActionsClass_test7 - 2021.03.22 at 20h 59m 38s.xml">
       <configuration name="PracticeActionsClass.test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeSelectClass_expediaTest - 2021.03.23 at 19h 07m 57s.xml">
+      <configuration name="PracticeSelectClass.expediaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 18m 44s.xml">
+      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 36m 24s.xml">
+      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 37m 52s.xml">
+      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 43m 06s.xml">
+      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 20h 20m 22s.xml">
+      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeActionsClass_test8 - 2021.03.23 at 20h 43m 22s.xml">
+      <configuration name="PracticeActionsClass.test8" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeActionsClass_test8 - 2021.03.23 at 20h 45m 44s.xml">
+      <configuration name="PracticeActionsClass.test8" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeActionsClass_test8 - 2021.03.23 at 20h 46m 50s.xml">
+      <configuration name="PracticeActionsClass.test8" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09450727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.226979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,7 +536,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31447586" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31447586" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.33943427" />
@@ -620,13 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="23" column="35" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -704,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,9 +677,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="40" column="49" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meetup/target/default-cucumber-reports/embedded0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meetup/src/test/java/runners/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/resources/configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -794,41 +753,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="191">
+          <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Meetup/target/default-cucumber-reports/embedded0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Meetup/src/test/java/runners/Runner.java">
+    <entry file="file://$PROJECT_DIR$/Meetup/src/test/java/utilities/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="630">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/test/resources/configuration.properties">
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/javascript/PracticeJavascript.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state relative-caret-position="684">
+          <caret line="66" column="120" selection-start-line="66" selection-start-column="120" selection-end-line="66" selection-end-column="120" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="164" column="46" lean-forward="true" selection-start-line="164" selection-start-column="46" selection-end-line="164" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/utilities/HelperMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="166" column="1" lean-forward="true" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
+        <state relative-caret-position="466">
+          <caret line="196" column="103" selection-start-line="196" selection-start-column="103" selection-end-line="196" selection-end-column="103" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -885,7 +861,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>meetup</last-edited>
+          <last-edited>fall2020UI</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
