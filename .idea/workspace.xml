@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7abe127-7f60-483b-989b-c6ac9a3df0a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/src/test/java/dropdowns/PracticeSelectClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/target/test-classes/dropdowns/PracticeSelectClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/target/test-classes/dropdowns/PracticeSelectClass.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,10 +50,11 @@
     <session id="-223267489">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.25" value="1" />
@@ -65,13 +63,13 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="feature" value="476" />
-          <entry key="java" value="19633" />
+          <entry key="java" value="21481" />
           <entry key="properties" value="202" />
           <entry key="xml" value="37" />
         </counts>
@@ -79,7 +77,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Cucumber" value="476" />
-          <entry key="JAVA" value="19633" />
+          <entry key="JAVA" value="21481" />
           <entry key="Properties" value="202" />
           <entry key="XML" value="37" />
         </counts>
@@ -87,7 +85,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="feature" value="4" />
-          <entry key="java" value="31" />
+          <entry key="java" value="33" />
           <entry key="png" value="2" />
           <entry key="properties" value="4" />
           <entry key="xml" value="5" />
@@ -97,7 +95,7 @@
         <counts>
           <entry key="Cucumber" value="4" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="33" />
           <entry key="Properties" value="4" />
           <entry key="XML" value="5" />
         </counts>
@@ -111,11 +109,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="196" column="103" selection-start-line="196" selection-start-column="103" selection-end-line="196" selection-end-column="103" />
+            <state relative-caret-position="401">
+              <caret line="196" column="52" selection-start-line="196" selection-start-column="52" selection-end-line="196" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,9 +122,41 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/iframesAndAlerts/PracticeIframes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice/src/test/java/iframesAndAlerts/PracticeAlerts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/src/test/java/utilities/HelperMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="90">
               <caret line="7" column="39" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -156,8 +186,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            <state relative-caret-position="435">
+              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -218,6 +248,8 @@
         <option value="$PROJECT_DIR$/Practice/src/test/java/javascript/PracticeJavascript.java" />
         <option value="$PROJECT_DIR$/Meetup/src/test/java/utilities/Helper.java" />
         <option value="$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/iframesAndAlerts/PracticeIframes.java" />
+        <option value="$PROJECT_DIR$/Practice/src/test/java/iframesAndAlerts/PracticeAlerts.java" />
       </list>
     </option>
   </component>
@@ -255,6 +287,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,7 +328,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="advancedMouseInteractions" type="462c0819:PsiDirectoryNode" />
+              <item name="iframesAndAlerts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Fall2020UI" type="b2602c69:ProjectViewProjectNode" />
@@ -353,11 +386,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616550599163" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616636433047" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -375,101 +407,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PracticeActionsClass.test8">
-    <configuration name="PracticeActionsClass.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PracticeAlerts.testConfirmationAlert">
+    <configuration name="PracticeAlerts.testConfirmationAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advancedMouseInteractions.*" />
+          <option name="PATTERN" value="iframesAndAlerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="advancedMouseInteractions" />
-      <option name="MAIN_CLASS_NAME" value="advancedMouseInteractions.PracticeActionsClass" />
-      <option name="METHOD_NAME" value="test6" />
+      <option name="PACKAGE_NAME" value="iframesAndAlerts" />
+      <option name="MAIN_CLASS_NAME" value="iframesAndAlerts.PracticeAlerts" />
+      <option name="METHOD_NAME" value="testConfirmationAlert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeActionsClass.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeAlerts.testPromptAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advancedMouseInteractions.*" />
+          <option name="PATTERN" value="iframesAndAlerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="advancedMouseInteractions" />
-      <option name="MAIN_CLASS_NAME" value="advancedMouseInteractions.PracticeActionsClass" />
-      <option name="METHOD_NAME" value="test7" />
+      <option name="PACKAGE_NAME" value="iframesAndAlerts" />
+      <option name="MAIN_CLASS_NAME" value="iframesAndAlerts.PracticeAlerts" />
+      <option name="METHOD_NAME" value="testPromptAlert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeActionsClass.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeAlerts.testSimpleAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advancedMouseInteractions.*" />
+          <option name="PATTERN" value="iframesAndAlerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="advancedMouseInteractions" />
-      <option name="MAIN_CLASS_NAME" value="advancedMouseInteractions.PracticeActionsClass" />
-      <option name="METHOD_NAME" value="test8" />
+      <option name="PACKAGE_NAME" value="iframesAndAlerts" />
+      <option name="MAIN_CLASS_NAME" value="iframesAndAlerts.PracticeAlerts" />
+      <option name="METHOD_NAME" value="testSimpleAlert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeJavascript.etsyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeIframes.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javascript.*" />
+          <option name="PATTERN" value="iframesAndAlerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="javascript" />
-      <option name="MAIN_CLASS_NAME" value="javascript.PracticeJavascript" />
-      <option name="METHOD_NAME" value="etsyTest" />
+      <option name="PACKAGE_NAME" value="iframesAndAlerts" />
+      <option name="MAIN_CLASS_NAME" value="iframesAndAlerts.PracticeIframes" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeSelectClass.expediaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeIframes.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dropdowns.*" />
+          <option name="PATTERN" value="iframesAndAlerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dropdowns" />
-      <option name="MAIN_CLASS_NAME" value="dropdowns.PracticeSelectClass" />
-      <option name="METHOD_NAME" value="expediaTest" />
+      <option name="PACKAGE_NAME" value="iframesAndAlerts" />
+      <option name="MAIN_CLASS_NAME" value="iframesAndAlerts.PracticeIframes" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PracticeActionsClass.test6" />
-      <item itemvalue="JUnit.PracticeActionsClass.test7" />
-      <item itemvalue="JUnit.PracticeSelectClass.expediaTest" />
-      <item itemvalue="JUnit.PracticeJavascript.etsyTest" />
-      <item itemvalue="JUnit.PracticeActionsClass.test8" />
+      <item itemvalue="JUnit.PracticeIframes.test1" />
+      <item itemvalue="JUnit.PracticeIframes.test2" />
+      <item itemvalue="JUnit.PracticeAlerts.testSimpleAlert" />
+      <item itemvalue="JUnit.PracticeAlerts.testPromptAlert" />
+      <item itemvalue="JUnit.PracticeAlerts.testConfirmationAlert" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PracticeActionsClass.test8" />
-        <item itemvalue="JUnit.PracticeJavascript.etsyTest" />
-        <item itemvalue="JUnit.PracticeSelectClass.expediaTest" />
-        <item itemvalue="JUnit.PracticeActionsClass.test7" />
-        <item itemvalue="JUnit.PracticeActionsClass.test6" />
+        <item itemvalue="JUnit.PracticeAlerts.testConfirmationAlert" />
+        <item itemvalue="JUnit.PracticeAlerts.testPromptAlert" />
+        <item itemvalue="JUnit.PracticeAlerts.testSimpleAlert" />
+        <item itemvalue="JUnit.PracticeIframes.test2" />
+        <item itemvalue="JUnit.PracticeIframes.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -487,42 +519,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PracticeActionsClass_test7 - 2021.03.22 at 20h 59m 38s.xml">
-      <configuration name="PracticeActionsClass.test7" configurationId="JUnit" />
+    <history-entry file="PracticeIframes_test1 - 2021.03.24 at 18h 52m 39s.xml">
+      <configuration name="PracticeIframes.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeSelectClass_expediaTest - 2021.03.23 at 19h 07m 57s.xml">
-      <configuration name="PracticeSelectClass.expediaTest" configurationId="JUnit" />
+    <history-entry file="PracticeIframes_test1 - 2021.03.24 at 18h 53m 33s.xml">
+      <configuration name="PracticeIframes.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 18m 44s.xml">
-      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    <history-entry file="PracticeIframes_test1 - 2021.03.24 at 18h 59m 33s.xml">
+      <configuration name="PracticeIframes.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 36m 24s.xml">
-      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    <history-entry file="PracticeIframes_test1 - 2021.03.24 at 19h 03m 10s.xml">
+      <configuration name="PracticeIframes.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 37m 52s.xml">
-      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    <history-entry file="PracticeIframes_test2 - 2021.03.24 at 19h 30m 23s.xml">
+      <configuration name="PracticeIframes.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 19h 43m 06s.xml">
-      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    <history-entry file="PracticeIframes_test2 - 2021.03.24 at 19h 35m 23s.xml">
+      <configuration name="PracticeIframes.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeJavascript_etsyTest - 2021.03.23 at 20h 20m 22s.xml">
-      <configuration name="PracticeJavascript.etsyTest" configurationId="JUnit" />
+    <history-entry file="PracticeAlerts_testSimpleAlert - 2021.03.24 at 20h 23m 53s.xml">
+      <configuration name="PracticeAlerts.testSimpleAlert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeActionsClass_test8 - 2021.03.23 at 20h 43m 22s.xml">
-      <configuration name="PracticeActionsClass.test8" configurationId="JUnit" />
+    <history-entry file="PracticeAlerts_testSimpleAlert - 2021.03.24 at 20h 24m 53s.xml">
+      <configuration name="PracticeAlerts.testSimpleAlert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeActionsClass_test8 - 2021.03.23 at 20h 45m 44s.xml">
-      <configuration name="PracticeActionsClass.test8" configurationId="JUnit" />
+    <history-entry file="PracticeAlerts_testSimpleAlert - 2021.03.24 at 20h 29m 10s.xml">
+      <configuration name="PracticeAlerts.testSimpleAlert" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeActionsClass_test8 - 2021.03.23 at 20h 46m 50s.xml">
-      <configuration name="PracticeActionsClass.test8" configurationId="JUnit" />
+    <history-entry file="PracticeAlerts_testPromptAlert - 2021.03.24 at 20h 34m 45s.xml">
+      <configuration name="PracticeAlerts.testPromptAlert" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.226979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11147011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -687,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,9 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="21" column="45" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,30 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Meetup/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="29" column="50" lean-forward="true" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -762,9 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="50" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -789,9 +785,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="196" column="52" selection-start-line="196" selection-start-column="52" selection-end-line="196" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/src/test/java/utilities/HelperMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="90">
           <caret line="7" column="39" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -799,12 +805,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/advancedMouseInteractions/PracticeActionsClass.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="196" column="103" selection-start-line="196" selection-start-column="103" selection-end-line="196" selection-end-column="103" />
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Meetup/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/iframesAndAlerts/PracticeIframes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/src/test/java/iframesAndAlerts/PracticeAlerts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
           </folding>
         </state>
       </provider>
